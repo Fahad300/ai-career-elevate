@@ -1,0 +1,6 @@
+# This is a placeholder file for scanned_resume_sample.png
+# In a real implementation, this would be a PNG image file
+# containing a scanned resume document for OCR testing
+#
+# For testing purposes, we'll use this text file as a placeholder
+# and mock the OCR functionality in our tests
